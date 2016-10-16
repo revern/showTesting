@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShowTesting</string>
+    <integer name="com_vk_sdk_AppId">5670504</integer>
+</resources>
